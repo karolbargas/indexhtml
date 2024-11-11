@@ -3,6 +3,7 @@ body {
   background: pink;
   margin: 0px;
   font-family: "Caveat", cursive;
+  margin-bottom: 100px;
 }
 
 header {
@@ -42,9 +43,10 @@ img {
   gap; 10px;
 }
 
-,categoria {
+.categoria {
   padding-left: 20px;
   padding-right: 20px;
+  margin-top: 50px;
 }
 
 .categoria-videos img {
